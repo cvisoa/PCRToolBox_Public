@@ -1,10 +1,10 @@
 {
-    "code": ,
-    "name": "",
-    "filename": "",
-    "url": "",
-    "time": ,
-    "des": "",
-    "size": ,
-    "md5": ""
+    "code": 202,
+    "name": "PCRToolBox2.05的更新",
+    "filename": "PCRToolBox.zip",
+    "url": "https://raw.githubusercontent.com/cvisoa/PCRToolBox_Public/master/archives/PCRToolBox_v2.02.rar",
+    "time": "2020-10-25",
+    "des": "本次更新了自动修复升级的功能",
+    "size": "5.52mb",
+    "md5": "92b309595609ae4be3d71ecbcee50b0f"
 }
