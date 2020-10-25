@@ -1,10 +1,10 @@
 {
-    "code": 203,
+    "code": 204,
     "name": "PCRToolBox2.03",
     "filename": "PCRToolBox.zip",
     "url": "https://raw.githubusercontent.com/cvisoa/PCRToolBox_Public/master/archives/PCRToolBox_v2.03.zip",
     "time": "2020-10-25",
-    "des": "测试测试测试测试测试测试测试测试",
-    "size": "5.91MB",
-    "md5": "4ba6cce77c59eb301f613d07fdbf71db"
+    "des": "加入了自动更新的功能",
+    "size": "6.54MB",
+    "md5": "b06c5f6f2758188186b14f20c5c10c64"
 }
