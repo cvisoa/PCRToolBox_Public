@@ -1,10 +1,10 @@
 {
-    "code": 203,
-    "name": "PCRToolBox2.03",
+    "code": 204,
+    "name": "PCRToolBox2.04",
     "filename": "PCRToolBox.zip",
-    "url": "https://raw.githubusercontent.com/cvisoa/PCRToolBox_Public/master/archives/PCRToolBox_v2.03.zip",
-    "time": "2020-10-25",
-    "des": "1.加入了自动更新的功能\n2.加入删除设置的功能",
+    "url": "https://raw.githubusercontent.com/cvisoa/PCRToolBox_Public/master/archives/PCRToolBox_v2.04.zip",
+    "time": "2020-10-30",
+    "des": "调整了下连点器的预设",
     "size": "6.54MB",
-    "md5": "52fb2444cf11c5bea5093cee4ef53ad7"
+    "md5": "7ebc05ce2b9890140ea48213218b5283"
 }
