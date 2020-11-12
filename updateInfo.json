@@ -6,7 +6,7 @@
     "time": "2020-11-12",
     "des": "程序框架迁移至.Net5\n1.修正了些小bug\n2.程序精简、减小体积、效率提升\n3.更新器版本迭代\n需要下载最新的.Net5运行环境、不然将无法运行\n更新完打开程序将会弹出提示确认后跳转到微软官方\n请选择下载.Net5 Desktop Runtime X64版本并安装",
     "size": "1.54MB",
-    "md5": "72e1d03d80bfccf8f88c68f8dc0af1c1",
+    "md5": "f561073872b8c4f5799cd2011a8c82fc",
     "cleanList":[
         "Newtonsoft.Json.dll",
         "SharpVectors.Converters.Wpf.dll",
