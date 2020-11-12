@@ -4,7 +4,7 @@
     "filename": "PCRToolBox.zip",
     "url": "https://raw.githubusercontent.com/cvisoa/PCRToolBox_Public/master/archives/PCRToolBox_v2.05.zip",
     "time": "2020-11-12",
-    "des": "程序框架迁移至.Net5\n1.修正了些小bug\n2.程序精简、减小体积、提升效率\n3.更新器版本迭代\n更新程序完后需要下载最新的.Net5运行环境、不然将无法运行\n打开程序将会弹出提示确认后跳转到微软官方\n请选择下载.Net5 Desktop Runtime X64版本并安装",
+    "des": "程序框架迁移至.Net5\n1.修正了些小bug\n2.程序精简、减小体积、效率提升\n3.更新器版本迭代\n更新程序完后需要下载最新的.Net5运行环境、不然将无法运行\n打开程序将会弹出提示确认后跳转到微软官方\n请选择下载.Net5 Desktop Runtime X64版本并安装",
     "size": "1.54MB",
     "md5": "502dd23a15ceccd236a0a16dce7f9af8",
     "cleanList":[
