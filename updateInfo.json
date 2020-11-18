@@ -1,12 +1,12 @@
 {
-    "code": 206,
-    "name": "PCRToolBox2.06",
+    "code": 207,
+    "name": "PCRToolBox2.07",
     "filename": "PCRToolBox.zip",
-    "url": "https://raw.githubusercontent.com/cvisoa/PCRToolBox_Public/master/archives/PCRToolBox_v2.06.zip",
-    "time": "2020-11-13",
-    "des": "程序框架迁移至.Net5\n1.更新器版本迭代、现在是透过dns来动态解析Github当前真实ip\n2.修正工具箱自启bug\n需要下载最新的.Net5运行环境、不然将无法运行\n更新完打开程序将会弹出提示确认后跳转到微软官方\n请选择下载.Net5 Desktop Runtime X64版本并安装",
+    "url": "https://raw.githubusercontent.com/cvisoa/PCRToolBox_Public/master/archives/PCRToolBox_v2.07.zip",
+    "time": "2020-11-18",
+    "des": "程序框架迁移至.Net5\n1.放开分辨率选项、在不安装pcr的情况下也可使用(对所有第三方程序有效)需要自己拉句柄2.修正守护线程的bug\n需要下载最新的.Net5运行环境、不然将无法运行\n更新完打开程序将会弹出提示确认后跳转到微软官方\n请选择下载.Net5 Desktop Runtime X64版本并安装",
     "size": "2.89MB",
-    "md5": "8f5eb8a387d0fec521a8f2f5c2470f86",
+    "md5": "16430a117133143891a2d8b7722c7959",
     "cleanList":[
         "Newtonsoft.Json.dll",
         "SharpVectors.Converters.Wpf.dll",
