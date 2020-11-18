@@ -6,7 +6,7 @@
     "time": "2020-11-18",
     "des": "程序框架迁移至.Net5\n1.放开分辨率选项、在不安装pcr的情况下也可使用(对所有第三方程序有效)、需要自己拉句柄\n2.修正守护线程的bug\n需要下载最新的.Net5运行环境、不然将无法运行\n更新完打开程序将会弹出提示确认后跳转到微软官方\n请选择下载.Net5 Desktop Runtime X64版本并安装",
     "size": "2.89MB",
-    "md5": "16430a117133143891a2d8b7722c7959",
+    "md5": "d53a3ec931a32580ed00d3df0837b3e5",
     "cleanList":[
         "Newtonsoft.Json.dll",
         "SharpVectors.Converters.Wpf.dll",
