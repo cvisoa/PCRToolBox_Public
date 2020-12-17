@@ -1,12 +1,12 @@
 {
-    "code": 207,
-    "name": "PCRToolBox2.07",
+    "code": 208,
+    "name": "PCRToolBox2.08",
     "filename": "PCRToolBox.zip",
-    "url": "https://raw.githubusercontent.com/cvisoa/PCRToolBox_Public/master/archives/PCRToolBox_v2.07.zip",
+    "url": "https://raw.githubusercontent.com/cvisoa/PCRToolBox_Public/master/archives/PCRToolBox_v2.08.zip",
     "time": "2020-11-18",
-    "des": "程序框架迁移至.Net5\n1.放开分辨率选项、在不安装pcr的情况下也可使用(对所有第三方程序有效)、需要自己拉句柄\n2.修正守护线程的bug\n3.新增修复程序的功能\n4.新增复位句柄按钮\n需要下载最新的.Net5运行环境、不然将无法运行\n更新完打开程序一般情况下将会弹出提示点击确认后跳转到微软官方\n请选择下载.Net5 Desktop Runtime X64版本并安装",
+    "des": "程序框架迁移至.Net5\n1.将失效的香港ip替换成日本地区\n需要下载最新的.Net5运行环境、不然将无法运行\n更新完打开程序一般情况下将会弹出提示点击确认后跳转到微软官方\n请选择下载.Net5 Desktop Runtime X64版本并安装",
     "size": "2.89MB",
-    "md5": "770082da0ab4c0246f33d1babed16a24",
+    "md5": "8e37566b6122b75a6b1cea8587c1857f",
     "cleanList":[
         "Newtonsoft.Json.dll",
         "SharpVectors.Converters.Wpf.dll",
